@@ -241,6 +241,12 @@ export default function LearningRoadmapPage() {
       best: "Best visual introduction to neural networks and the intuition behind learning.",
     },
     {
+      title: "3Blue1Brown / Welch Labs — How do AI images and videos actually work?",
+      url: "https://www.youtube.com/watch?v=iv-5mZ_9CPY&list=PLF9HtW9DeE2_T2tylrncGR_oyxehMILM_&index=9",
+      embed: "https://www.youtube.com/embed/iv-5mZ_9CPY",
+      best: "Excellent visual explanation of diffusion models, AI image generation, and video synthesis.",
+    },
+    {
       title: "Stanford CS224N — NLP with Deep Learning playlist",
       url: "https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
       embed: "https://www.youtube.com/embed/videoseries?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ",
