@@ -372,7 +372,7 @@ export default function LearningRoadmapPage() {
       title: "GitHub repo audit and bug-fixing agent",
       links: [
         ["GitHub API", "https://docs.github.com/en/rest"],
-        ["OpenAI tools", "https://platform.openai.com/docs/guides/function-calling"],
+        ["OpenAI tools", "https://cookbook.openai.com/examples/how_to_call_functions_with_chat_models"],
         ["LangGraph", "https://langchain-ai.github.io/langgraph/"],
       ],
     },
